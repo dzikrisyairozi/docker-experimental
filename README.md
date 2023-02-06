@@ -1,1 +1,1 @@
-ytRapidAPI 
+ytRapidAPI - jsVersion
